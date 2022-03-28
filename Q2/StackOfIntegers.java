@@ -7,7 +7,7 @@ public class StackOfIntegers
     
     public StackOfIntegers()
     {
-        capacity = 20;
+        capacity = 10;
         elements = new int [capacity];
         size = 0;
     }
