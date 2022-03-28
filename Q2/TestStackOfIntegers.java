@@ -2,9 +2,9 @@ public class TestStackOfIntegers
 {
     public static void main(String [] args)
     {
-        StackOfIntegers stack = new StackOfIntegers(20);
+        StackOfIntegers stack = new StackOfIntegers(10);
 
-        for (int i = 0; i < 20; i++)
+        for (int i = 0; i < 10; i++)
         {
             stack.push(i);
         }
